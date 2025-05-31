@@ -20,3 +20,10 @@ This is a simple flash card application built with Python and Tkinter to help us
 3. Then run the application by double-clicking on the `.exe`.
 
 > ⚠️ The app won't work properly if `words_to_learn.csv` is missing or placed elsewhere.
+
+## 🛡 License
+
+This project is provided for **personal and educational use only**.  
+Commercial use, redistribution, or publishing any part of the code without permission is **strictly prohibited**.
+
+For other use cases, please contact the author.
