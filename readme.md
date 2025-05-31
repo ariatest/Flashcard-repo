@@ -2,6 +2,7 @@
 
 This is a simple flash card application built with Python and Tkinter to help users learn German vocabulary.
 
+<img src="preview.png" alt="Flash Card Preview" width="600"/>
 
 ## 🚀 Features
 
