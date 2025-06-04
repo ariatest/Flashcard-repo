@@ -15,7 +15,7 @@ This is a simple flash card application built with Python and Tkinter to help us
 
 ## 📦 Installation
 
-1. Download the `.exe` file from the [Releases](https://github.com/AriaAramesh/Flashcard-repo/releases) page.
+1. Download the `.exe` file from the [Releases](https://github.com/ariatest/Flashcard-repo/releases/tag/v1.0.0) page.
 2. Make sure to place `words_to_learn.csv` in the **same folder** as the `.exe` file.
 3. Then run the application by double-clicking on the `.exe`.
 
